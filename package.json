@@ -1,0 +1,52 @@
+{
+  "name": "mark1",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node --harmony ./bin/www",
+    "server" : "nodemon --harmony ./bin/www",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "compression": "^1.7.2",
+    "cookie-parser": "^1.4.3",
+    "debug": "^2.6.9",
+    "dotenv": "^5.0.1",
+    "ejs": "~2.5.7",
+    "express": "^4.16.3",
+    "figlet": "^1.2.0",
+    "helmet": "^3.12.0",
+    "http": "0.0.0",
+    "http-errors": "^1.6.3",
+    "jquery": "^3.3.1",
+    "mocha": "^5.1.1",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7",
+    "react-redux": "^5.0.7",
+    "supertest": "^3.0.0",
+    "winston": "^2.4.2"
+  },
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaikzs/CodingSampleUI.git"
+  },
+  "keywords": [],
+  "author": "Vaikunth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaikzs/CodingSampleUI/issues"
+  },
+  "homepage": "https://github.com/vaikzs/CodingSampleUI#readme",
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
