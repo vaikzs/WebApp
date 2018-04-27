@@ -1,6 +1,7 @@
 ## About
 
-https://travis-ci.org/vaikzs/WebApp.svg?branch=master
+[![Build Status](https://travis-ci.org/vaikzs/WebApp.svg?branch=master)](https://travis-ci.org/vaikzs/WebApp)
+
 Aim of this project is to showcase Web Application Development capabilities with best practices.
 
 
